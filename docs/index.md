@@ -5,3 +5,6 @@
     * [lab1-MSLE](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2024-25/blob/master/docs/DNN-Lab-1-MSLE-student-version.ipynb)
     
 # Homeworks
+# Old exams
+
+Both coding tasks and tests from editions 2020/21-2023/24 are [here](exams-tasks)
