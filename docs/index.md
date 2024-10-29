@@ -7,6 +7,7 @@
 * Lab3: [lab3-optimizers](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2024-25/blob/master/docs/DNN-Lab-3-mnist-again-student.ipynb)
 
 # Homeworks
+* [Homework 1](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2024-25/blob/master/docs/hw1-proxprop-student.ipynb)
 # Old exams
 
 Both coding tasks and tests from editions 2020/21-2023/24 are [here](exams-tasks)
