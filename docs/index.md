@@ -1,3 +1,24 @@
+# Lectures
+
+[Slides & recordings](https://drive.google.com/drive/folders/19zxpFOrXtkb5r5vIRMUwtsGmnQ3ym-t1?usp=sharing)
+
+Lecture plan:
+* 16.10 MM - backprop
+* 23.10 MM - optimizers
+* 30.10 MM - helping SGD
+* 06.11 MM - wrap up, MC - frameworks
+* — bonus material - prerecorded lecture - practical considerations
+* 13.11 MC Convnets 1 (classification)
+* 20.11 MC Convnets 2 (detection & segmentation)
+* 27.11 MC Generative modeling (VAE, GANs)
+* 4.12 MC RNNs
+* 11.12 MC Language Modelling
+* 18.12 ? Transformers
+* — bonus material (if needed)
+* 8.01 MC RL1 - DQN
+* 15.01 MC RL2 - Policy Gradients
+* 22.01 MC RL3 - AlphaGo, ChatGPT
+
 # Labs
 
 * Lab1:
